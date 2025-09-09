@@ -8,7 +8,7 @@
 
 **Referencias**:
 
-Carmichael, R. H., Botton, M. L., Shin, P. K., & Cheung, S. G. (Eds.). (2015). Changing global perspectives on horseshoe crab biology, conservation and management (No. 11406). Switzerland: Springer International Publishing.
+**Carmichael, R. H., Botton, M. L., Shin, P. K., & Cheung, S. G. (Eds.). (2015). Changing global perspectives on horseshoe crab biology, conservation and management (No. 11406). Switzerland: Springer International Publishing.**
 
 Coates, C. J., Kelly, S. M., & Nairn, J. (2011). Possible role of phosphatidylserine–hemocyanin interaction in the innate immune response of Limulus polyphemus. Developmental & Comparative Immunology, 35(2), 155-163.
 
@@ -34,10 +34,10 @@ Smith, R. H., & Pistole, T. G. (1985). Bactericidal activity of granules isolate
 
 Smith, M. D., Schrank, H. E., & Brockmann, H. J. (2013). Measuring the costs of alternative reproductive tactics in horseshoe crabs, Limulus polyphemus. Animal Behaviour, 85(1), 165-173.
 
-Tanacredi, J. T., Botton, M. L., Shin, P. K., Iwasaki, Y., Cheung, S. G., Kwan, K. Y., & Mattei, J. H. (Eds.). (2022). International Horseshoe Crab Conservation and Research Efforts, 2007-2020: Conservation of Horseshoe Crabs Species Globally. Springer.
+**Tanacredi, J. T., Botton, M. L., Shin, P. K., Iwasaki, Y., Cheung, S. G., Kwan, K. Y., & Mattei, J. H. (Eds.). (2022). International Horseshoe Crab Conservation and Research Efforts, 2007-2020: Conservation of Horseshoe Crabs Species Globally. Springer.**
 
 Walls, E. A., Berkson, J., & Smith, S. A. (2002). The horseshoe crab, Limulus polyphemus: 200 million years of existence, 100 years of study. Reviews in Fisheries Science, 10(1), 39-73.
 
 Wright, J., Clark, W. M., Cain, J. A., Patterson, A., Coates, C. J., & Nairn, J. (2012). Effects of known phenoloxidase inhibitors on hemocyanin-derived phenoloxidase from Limulus polyphemus. Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology, 163(3-4), 303-308.
 
-Yan, D., Li, R., & Gao, L. (2024). Research progress of limulus coagulation mechanism and limulus reagents. In BIO Web of Conferences (Vol. 111, p. 01016). EDP Sciences.
+**Yan, D., Li, R., & Gao, L. (2024). Research progress of limulus coagulation mechanism and limulus reagents. In BIO Web of Conferences (Vol. 111, p. 01016). EDP Sciences.**
